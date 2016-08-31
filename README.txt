@@ -1,0 +1,1 @@
+While working with Knodemy Inc., I coded a simple Rock Paper Scissors GUI so our students could use it as a template for learning JPanel. The game is random and quick, so I really love clicking random buttons and watching the Law of Large Numbers come into play.
